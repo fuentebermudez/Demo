@@ -1,3 +1,3 @@
 def multiplica:
-    a=2*3
+    a=2*8
     return a
